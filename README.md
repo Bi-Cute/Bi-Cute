@@ -30,3 +30,15 @@
 <br />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bi-Cute&layout=compact)
+
+<br />
+
+## Mini Games
+
+| Title | Link |
+| ------ | ------ |
+| 할 일 목록 | [https://bi-cute.github.io/01ToDoList/](https://bi-cute.github.io/01ToDoList/) |
+| 끝말잇기 게임 | [https://bi-cute.github.io/02WordRelayGame/](https://bi-cute.github.io/02WordRelayGame/) |
+| 계산기 | [https://bi-cute.github.io/03Calculrator/](https://bi-cute.github.io/03Calculrator/) |
+| 숫자 야구 게임 | [https://bi-cute.github.io/04NumberBaseball/](https://bi-cute.github.io/04NumberBaseball/) |
+
